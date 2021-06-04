@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Moving
+  - Filled
+  - Empty
+  - Menu
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - Stay
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3566227677
+    locked: 0
+  - name: Quit
+    uniqueID: 1929784499
+    locked: 0
+  - name: Blocks
+    uniqueID: 883579629
+    locked: 0
+  - name: 1st Blocks
+    uniqueID: 468091503
+    locked: 0
+  - name: Pause
+    uniqueID: 3599678447
+    locked: 0
+  - name: Help
+    uniqueID: 4028406783
+    locked: 0
